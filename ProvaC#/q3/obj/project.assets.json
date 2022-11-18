@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\disrct\\Desktop\\prova\\ProvaC#\\q3\\q3.csproj",
+      "projectUniqueName": "C:\\Users\\disrct\\Desktop\\prova\\ProvaCSharp\\ProvaC#\\q3\\q3.csproj",
       "projectName": "q3",
-      "projectPath": "C:\\Users\\disrct\\Desktop\\prova\\ProvaC#\\q3\\q3.csproj",
+      "projectPath": "C:\\Users\\disrct\\Desktop\\prova\\ProvaCSharp\\ProvaC#\\q3\\q3.csproj",
       "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\disrct\\Desktop\\prova\\ProvaC#\\q3\\obj\\",
+      "outputPath": "C:\\Users\\disrct\\Desktop\\prova\\ProvaCSharp\\ProvaC#\\q3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config",
